@@ -31,13 +31,21 @@
 
 ## Driving Digital Transformation Through CloudOps and Site Reliability Engineering
 
+* Some thoughts on team topologies
 * Liked the progressive and evolving organization over Cloud Operations
   * Mode 1 : Traditional Ops
-  * Mode 2 :
-  * Mode 3 :
+  * Mode 2 : Distributed Ops
+  * Mode 3 : Decentralised Ops
+* The so-called four pillars of CloudOps :
+  * SRE
+  * FinOps
+  * GitOps
+  * DevSecOps
+* [How to get organised and get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started)
 * Measurement is key
   * Differend things to measure depending on if we're talking about infrastructure/platform or product/application
 * Get the basics right ; start slow but with confidence !
+* [Slides](assets/ADDO_2020-Driving-Digital-Transformation-through-CloudOps-and-SRE.pdf)
 
 &nbsp;
 
