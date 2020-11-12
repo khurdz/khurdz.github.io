@@ -10,7 +10,7 @@
 
 ## Tracks
 
-Below are the attended sessions quick recaps, along with useful resources personal notes :
+Below are the attended sessions quick recaps, along with useful resources and personal notes :
 
 * [CI/CD & Continuous Everything](https://khurdz.github.io/addo-2020/cicd-continuous-everything/)
 * [Modern Infrastructure](https://khurdz.github.io/addo-2020/modern-infrastructure/)

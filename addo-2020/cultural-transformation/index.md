@@ -6,20 +6,33 @@
 
 ## Are we really moving faster ? How visualizing flow changed the way we work
 
-slides
-https://pickl.eu/blog/are-we-really-moving-faster-how-visualizing-flow-changed-the-way-we-work/
-https://github.com/rompic/Smashing-Flowboard
+* [Slides](assets/ADDO_2020_Cultural_Transformation_Roman_Pickl%20.pdf)
+* [Github repository](https://github.com/rompic/Smashing-Flowboard)
+* ... a bit boring...
+
+&nbsp;
 
 ## DevOps in a highly regulated environment - Aiming high like a Unicorn in skates
 
-create new platform team 
-accelerate first with ndap
-evolve into ccoe
+* Some interesting takeaways for building an efficient organization around DevOps and Cloud in an old school context
+* Focus on people first (culture & training), then adapt your processes, and afterwards work on tools/pipelines... not the other way around !
+* Shift left Security too !
+  * Open Policy Agent
+  * Hashicorp Sentinel
+* Continuous governance
+  * Controls as code
+  * Governance as code
+  * Policy as code
+* [Slides](assets/DevOps-in-a-Highly-Regulated-Environment-ADDO.pdf)
 
-agile governance
-continuous governance
-  controls as code
-  governance as code
-  policy as code
-opa / sentinel
-shift left seciruty
+&nbsp;
+
+## Scaling DevOps in a 100 year old Enterprise Organisation
+
+&nbsp;
+
+## DevOps Is Not What You Have Been Told It Is
+
+* A good view of what DevOps has become over the past years, of the drifts between what we assess now and what it promised in the first place
+* A good reminder if you strayed too far from it, and a nice food for thought !
+* [Slides](assets/DevOps-Is-Not-What-You-Have-Been-Told-It-Is.pdf)
