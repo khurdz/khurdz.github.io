@@ -44,3 +44,13 @@ Below are the attended sessions quick recaps, along with useful resources person
 
 * Some figures available [here](https://www.flexera.com/about-us/press-center/flexera-releases-2020-state-of-the-cloud-report.html)
 * Download full report [here](https://info.flexera.com/SLO-CM-REPORT-State-of-the-Cloud-2020)
+
+&nbsp;
+
+## The DevOps Roadmap
+
+* [The original article back from 2018](https://medium.com/hackernoon/the-2018-devops-roadmap-31588d8670cb)
+* The Github repository : [github.com/kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+* Short URL : [https://roadmap.sh/devops](https://roadmap.sh/devops)
+
+![devops_roadmap](assets/devops_roadmap.png)
