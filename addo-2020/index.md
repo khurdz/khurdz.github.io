@@ -34,13 +34,13 @@ Below are the attended sessions quick recaps, along with useful resources person
 * Covid-19 accelerating Cloud Plans
   * VDI and SaaS solutions in particular
 
-![alt text](image.jpg)
+![flexera_report_cloud_adoption_covid19](assets/flexera_report_cloud_adoption_covid19.png)
 
 * Optimizing costs remains top priority
   * Migration and container adoption are still top priorities
   * Automated policies for governance, and implement CI/CD *in* the Cloud are ranking up quickly this year
 
-![alt text](image.jpg)
+![flexera_report_costs](assets/flexera_report_costs.png)
 
 * Some figures available [here](https://www.flexera.com/about-us/press-center/flexera-releases-2020-state-of-the-cloud-report.html)
 * Download full report [here](https://info.flexera.com/SLO-CM-REPORT-State-of-the-Cloud-2020)
