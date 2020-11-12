@@ -31,3 +31,11 @@
 * Funny spaghetti diagrams !
 * "Security touches everything"
 * [Slides](assets/CICD-Pipelines-for-DevSecOps-with-Hybrid-Cloud.pdf)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+*Back to [All Day DevOps 2020 Recap](https://khurdz.github.io/addo-2020/)*

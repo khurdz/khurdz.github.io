@@ -31,3 +31,11 @@
   * [markdownlint](https://github.com/DavidAnson/markdownlint)
   * [markdown-lint-check](https://github.com/tcort/markdown-link-check)
 * [Slides](assets/ADDO_2020_CICD_Jacques_Gil_CI_and_CD_for_doccumentation.pdf)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+*Back to [All Day DevOps 2020 Recap](https://khurdz.github.io/addo-2020/)*

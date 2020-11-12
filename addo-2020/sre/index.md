@@ -65,3 +65,11 @@ operational management overhead"
 * Have a look at [Harness](https://harness.io/), formerly known as Drone
 one pipeline to rule them all
 * [Slides](assets/ADDO_2020_SRE_Cloud_as_a_Commodity.pdf)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+*Back to [All Day DevOps 2020 Recap](https://khurdz.github.io/addo-2020/)*

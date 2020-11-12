@@ -32,3 +32,11 @@
 * A good view of what DevOps has become over the past years, of the drifts between what we assess now and what it promised in the first place
 * A good reminder if you strayed too far from it, and a nice food for thought !
 * [Slides](assets/DevOps-Is-Not-What-You-Have-Been-Told-It-Is.pdf)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+*Back to [All Day DevOps 2020 Recap](https://khurdz.github.io/addo-2020/)*

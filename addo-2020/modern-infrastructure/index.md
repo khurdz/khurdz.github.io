@@ -46,3 +46,11 @@
   * [CDK Workshops](https://cdkworkshop.com/)
   * [CDK examples](https://github.com/aws-samples/aws-cdk-examples)
 * [Slides](assets/ADDO_Infrastructure_as_real_code_CDK.pdf)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+*Back to [All Day DevOps 2020 Recap](https://khurdz.github.io/addo-2020/)*
