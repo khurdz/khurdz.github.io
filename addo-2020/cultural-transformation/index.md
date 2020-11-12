@@ -27,10 +27,6 @@
 
 &nbsp;
 
-## Scaling DevOps in a 100 year old Enterprise Organisation
-
-&nbsp;
-
 ## DevOps Is Not What You Have Been Told It Is
 
 * A good view of what DevOps has become over the past years, of the drifts between what we assess now and what it promised in the first place
