@@ -68,6 +68,13 @@ one pipeline to rule them all
 
 &nbsp;
 
+## Sampling in Open Source distributed tracing
+
+* Interesting lecture about Observability and the problems around OpenTelemetry
+* [Slides](assets/Sampling-in-Open-Source-Distributed-Tracing.pdf)
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;

@@ -31,6 +31,7 @@
 * Funny spaghetti diagrams !
 * "Security touches everything"
 * [Slides](assets/CICD-Pipelines-for-DevSecOps-with-Hybrid-Cloud.pdf)
+* [Slides (light)](assets/ADDO_2020_PPT_DevSecOps_Michael_Fraser_CICD_Pipelines_for_DevSecOps_with_Hybrid_Cloud.pdf)
 
 &nbsp;
 

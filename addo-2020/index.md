@@ -23,9 +23,15 @@ Below are the attended sessions quick recaps, along with useful resources and pe
 
 ## Notes
 
-* Throughout the keynotes and sessions, a lot of reminders about DevOps basic principles (culture & automation)
+* Throughout the keynotes and sessions, a lot of reminders about DevOps basic principles (culture & automation), of what it should be and not what companies think it should become
 * Back to basics instead of over-focusing on Cloud, SaaS, tools...
-* Focus on people first (culture & training), then adapt your processes, and afterwards work on tools/technology/solutions, not the other way around
+* Focus on people first (culture & training), then adapt your processes, and afterwards work on tools/technology/solutions, **not the other way around**
+* The hype and buzzwords :
+  * #devsecops
+  * #kubernetes
+  * #hybrid-cloud
+  * #terraform
+  * #sre (but do it your way !)
 
 &nbsp;
 

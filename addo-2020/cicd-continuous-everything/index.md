@@ -34,6 +34,21 @@
 
 &nbsp;
 
+## The One (Pipeline)
+
+* Nothing new in these slides
+* The last part about instrumentation, lessons learned and what is in store for the future is worth noting though
+* [Slides](assets/the_one_pipeline.pdf)
+
+&nbsp;
+
+## CI/CD in the world of Serverless
+
+* Quick overview of common toolchains for Serverless apps
+* [Slides](assets/CICD-in-the-world-of-Serverless.pdf)
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
