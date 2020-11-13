@@ -29,7 +29,7 @@
 
 &nbsp;
 
-## Driving Digital Transformation Through CloudOps and Site Reliability Engineering
+## Driving Digital Transformation Through CloudOps and Site Reliability Engineering {#cloudops-sre}
 
 * Some thoughts on team topologies
 * Liked the progressive and evolving organization over Cloud Operations
